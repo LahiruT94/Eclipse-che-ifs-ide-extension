@@ -1,0 +1,3 @@
+1544498263367
+META-INF/context\.xml, WEB-INF/classes(?:$|/.+), WEB-INF/lib(?:$|/.+), WEB-INF/rewrite\.config, WEB-INF/web\.xml, _app/IDE\.html, _app/browserNotSupported\.js, _app/favicon\.ico
+META-INF(?:$|/.+)
